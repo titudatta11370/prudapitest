@@ -16,9 +16,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-/**
- * @author pthomas3
- */
+
 @CucumberOptions(tags = {"~@ignore", "~@bug"},
         features = {"src/test/resources"}) // important: do not use @RunWith(Karate.class) !
 public class CukeTest {

@@ -1,0 +1,39 @@
+{
+"clientId": 233,
+"thirdPartyId": 579117,
+"relationshipStatus": null,
+"firstName": "IPM-994 02 May FN100",
+"middleName": null,
+"lastName": "IPM-994 02 May LN100",
+"alternateNames": ["Johnathan", "Jon"],
+"address": "1234 State St",
+"city": "New York",
+"region": "NY",
+"postalCode": "12345",
+"country": "United States",
+"countriesOfDoingBusiness": ["USA", "CA"],
+"email": "john@doe.com",
+"project": null,
+"employer": null,
+"jobTitle": null,
+"gender": "Male",
+"birthYear": 1953,
+"birthMonth": 02,
+"birthDay": 25,
+"riskFactors": [
+{
+"name": "Size of Relationship",
+"value": ["<$100,000"]
+}
+],
+"customFields": [
+{
+"name": "IPI-340A Company Name",
+"value": ["Test 340 Individual Name"]
+},
+{
+"name": "IPI 336 Company Name",
+"value": ["Test 336 Individual Name"]
+}
+]
+}

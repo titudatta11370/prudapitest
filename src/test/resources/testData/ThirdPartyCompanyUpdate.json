@@ -1,0 +1,41 @@
+{
+	"clientId": 179,
+	"thirdPartyId": 579093,
+	"name": "Test 16-5 27",
+	"relationshipStatus":"Accepted",
+	"alternateNames": ["Company Third-Party", "My Company"],
+	"address": null,
+	"city": "Newyork",
+	"region": null,
+	"postalCode": "879797",
+	"countriesOfDoingBusiness": ["United Kingdom", "France"],
+	"website": "https://insighttest.exiger.com",
+	"project": "project1",
+	"typeOfOrganization": null,
+	"corporateRegistrationNumber": null,
+	"countryOfIncorporation": "India",
+	"riskFactors": [
+	{
+		"name": "Country",
+		"value": ["China"]
+	},	
+	{
+	"name": "Size of Relationship",
+	"value": ["<$100,000"]
+	},
+	{
+	"name": "DDIQ Score",
+	"value": ["High"]	
+	}
+	],
+	"customFields": [
+		{
+			"name": "Custom Industry",
+			"value": ["Accounting"]
+		},
+		{
+			"name": "Test Custom Field",
+			"value": ["Option1","Option4"]
+		}
+	]
+}

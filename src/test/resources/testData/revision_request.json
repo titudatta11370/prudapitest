@@ -1,0 +1,7 @@
+{
+  "ApplicationNamespace" : "rhs_qa_api_user.ThirdParty.Details",
+  "ReferenceId" :200616,
+  "Reason" : "ThirdPartyCreated",
+  "CreatedBy": "mchin@exiger.com",
+  "JSONContent" : "{ 'CompanyName' : 'Exiger' }"
+}

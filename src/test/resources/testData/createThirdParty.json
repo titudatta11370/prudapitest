@@ -1,0 +1,28 @@
+{
+  "clientId": 202,
+  "name": "Test a Third Party",
+  "alternateNames": ["Comp Third-Party", "Company"],
+  "requestor": null,
+  "address": "1234 State St",
+  "city": "New York",
+  "region": "New York",
+  "postalCode": "12345",
+  "country": "United States",
+  "project": null,
+  "countriesOfDoingBusiness": ["USA", "CA"],
+  "website": null,
+  "typeOfOrganization": null,
+  "corporateRegistrationNumber": null,
+  "countryOfIncorporation": "United States",
+  "riskFactors": [
+    {
+      "name" : "Country",
+      "value" : ["United States"]
+    },
+    {
+      "name": "Relationship Type",
+      "value": ["Vendor"]
+    }
+  ],
+  "customFields": []
+}
